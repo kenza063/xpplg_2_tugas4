@@ -30,7 +30,7 @@
     align-items: center;
     justify-content: space-between;
     padding: 20px 60px;
-    backdrop-filter: transparent;
+    backdrop-filter: blur(14px);
   }
 
   .logo {
